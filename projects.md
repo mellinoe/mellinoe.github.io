@@ -10,7 +10,7 @@ All of my projects are available under the MIT license and are free to use and m
 
 ![NeoDemo-Wide](/images/neodemo-low-wide.png){:class="img-responsive"}
 
-An advanced graphics and compute library written entirely in .NET. Veldrid exposes more advanced GPU features than any other .NET library, and supports a wide range of graphics API's and operating systems:
+An advanced graphics and compute library written entirely in .NET. Veldrid supports a wide range of graphics API's and operating systems:
 
 * Vulkan, Direct3D 11, Metal, OpenGL (ES)
 * Windows, macOS, Linux, iOS, Android
