@@ -19,7 +19,7 @@ An advanced graphics and compute library written entirely in .NET. Veldrid suppo
 
 ![Game Engine Editor GUI Using ImGui.NET](/images/editor-gui-wide.png){:class="img-responsive"}
 
-A .NET wrapper for the awesome [dear imgui](https://github.com/ocornut/imgui) library. This uses an "immediate mode" UI paradigm, which allows you to quickly and easily build many different kinds of specialized applications, like game engine editors.
+A .NET wrapper for the awesome [Dear ImGui](https://github.com/ocornut/imgui) library. This uses an "immediate mode" UI paradigm, which allows you to quickly and easily build many different kinds of specialized applications, like game engine editors.
 
 # [ShaderGen](https://github.com/mellinoe/shadergen) [![NuGet](https://img.shields.io/nuget/v/ShaderGen.Build.svg)](https://www.nuget.org/packages/ShaderGen.Build)
 
