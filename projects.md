@@ -6,7 +6,7 @@ permalink: /projects/
 
 All of my projects are available under the MIT license and are free to use and modify.
 
-## [Veldrid](veldrid.dev) [![NuGet](https://img.shields.io/nuget/v/Veldrid.svg)](https://www.nuget.org/packages/Veldrid)
+## [Veldrid](https://veldrid.dev/) [![NuGet](https://img.shields.io/nuget/v/Veldrid.svg)](https://www.nuget.org/packages/Veldrid)
 
 ![NeoDemo-Wide](/images/neodemo-low-wide.png){:class="img-responsive"}
 
